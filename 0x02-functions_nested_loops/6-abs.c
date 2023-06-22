@@ -3,19 +3,19 @@
 /**
  * _abs - Computes the absolute value
  * of an integer.
- *
  * @i: input number as ana integer.
- *
  * Return: absolute value
  */
+
 int _abs(int i)
+
 {
 	if  (i >= 0)
 	{
-		return (i);
+	return (i);
 	}
 	else
 	{
-		return (i * -1);
+	return (i * -1);
 	}
 }
